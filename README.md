@@ -25,3 +25,6 @@ https://drive.google.com/drive/folders/1nSMHSAf5A3MTTPADVMh_qSuc0Il6qfEx?usp=sha
 
 Link Video Demo Aplikasi:
 https://youtu.be/1jF3zYN3QNQ
+
+Link App Expo:
+https://expo.dev/@johanesimarmata/reactnative-finalproject-johanesimarmata
